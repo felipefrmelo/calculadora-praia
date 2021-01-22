@@ -1,3 +1,3 @@
 
 
-https://github.com/felipefrmelo/calculadora-praia
+https://felipefrmelo.github.io/calculadora-praia/
