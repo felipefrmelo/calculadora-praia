@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/calculadora-praia/static/js/main.68d363b2.chunk.js",
+    "main.js.map": "/calculadora-praia/static/js/main.68d363b2.chunk.js.map",
+    "runtime-main.js": "/calculadora-praia/static/js/runtime-main.5c61be74.js",
+    "runtime-main.js.map": "/calculadora-praia/static/js/runtime-main.5c61be74.js.map",
+    "static/js/2.9e2f698c.chunk.js": "/calculadora-praia/static/js/2.9e2f698c.chunk.js",
+    "static/js/2.9e2f698c.chunk.js.map": "/calculadora-praia/static/js/2.9e2f698c.chunk.js.map",
+    "index.html": "/calculadora-praia/index.html",
+    "static/js/2.9e2f698c.chunk.js.LICENSE.txt": "/calculadora-praia/static/js/2.9e2f698c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c61be74.js",
+    "static/js/2.9e2f698c.chunk.js",
+    "static/js/main.68d363b2.chunk.js"
+  ]
+}
